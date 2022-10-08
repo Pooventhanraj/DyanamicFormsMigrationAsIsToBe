@@ -8,41 +8,41 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EFormToBe
 build_property.RootNamespace = EFormToBe
-build_property.ProjectDir = C:\Users\Venthan\source\repos\EFormToBe\EFormToBe\
+build_property.ProjectDir = C:\Users\Venthan\Source\Repos\DyanamicFormsMigrationAsIsToBe\EFormToBe\EFormToBe\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Venthan\source\repos\EFormToBe\EFormToBe
+build_property.MSBuildProjectDirectory = C:\Users\Venthan\Source\Repos\DyanamicFormsMigrationAsIsToBe\EFormToBe\EFormToBe
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/EForm.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/EForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRUZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/Error.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/Index.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/Privacy.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/_ViewImports.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/_ViewStart.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Venthan/source/repos/EFormToBe/EFormToBe/Pages/Shared/_Layout.cshtml]
+[C:/Users/Venthan/Source/Repos/DyanamicFormsMigrationAsIsToBe/EFormToBe/EFormToBe/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rk81u61ikg

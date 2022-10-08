@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venthan\\source\\repos\\EFormToBe\\EFormToBe\\EFormToBe.csproj": {}
+    "C:\\Users\\Venthan\\Source\\Repos\\DyanamicFormsMigrationAsIsToBe\\EFormToBe\\EFormToBe\\EFormToBe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venthan\\source\\repos\\EFormToBe\\EFormToBe\\EFormToBe.csproj": {
+    "C:\\Users\\Venthan\\Source\\Repos\\DyanamicFormsMigrationAsIsToBe\\EFormToBe\\EFormToBe\\EFormToBe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venthan\\source\\repos\\EFormToBe\\EFormToBe\\EFormToBe.csproj",
+        "projectUniqueName": "C:\\Users\\Venthan\\Source\\Repos\\DyanamicFormsMigrationAsIsToBe\\EFormToBe\\EFormToBe\\EFormToBe.csproj",
         "projectName": "EFormToBe",
-        "projectPath": "C:\\Users\\Venthan\\source\\repos\\EFormToBe\\EFormToBe\\EFormToBe.csproj",
+        "projectPath": "C:\\Users\\Venthan\\Source\\Repos\\DyanamicFormsMigrationAsIsToBe\\EFormToBe\\EFormToBe\\EFormToBe.csproj",
         "packagesPath": "C:\\Users\\Venthan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venthan\\source\\repos\\EFormToBe\\EFormToBe\\obj\\",
+        "outputPath": "C:\\Users\\Venthan\\Source\\Repos\\DyanamicFormsMigrationAsIsToBe\\EFormToBe\\EFormToBe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Venthan\\AppData\\Roaming\\NuGet\\NuGet.Config",

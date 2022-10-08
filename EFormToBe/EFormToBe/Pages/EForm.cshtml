@@ -1,24 +1,32 @@
 ﻿@page
 @model EFormToBe.Pages.EFormModel
 @{
-      var html = ViewData["html"];
+    var html = ViewData["html"];
 }
 
 
 <body>
-    <form id="form1">
+    Saved Data :: @Html.Raw(ViewData["SavedDetails"])
+    <form id="form1" method="post">
         <div>
             Employee Details
+            <br/>
+            <br/>
             <label>Firstname </label>
             <input type="text" name="firstname" size="15" />
+          @*  <input type="hidden" id="FirstName" />*@
             <br/>
             <br/>
             <label>Middlename: </label>
             <input type="text" name="middlename" size="15" />
+           
+            @Html.Hidden("MiddleName", ViewData["MiddleName"])
             <br/>
             <br/>
             <label>Lastname: </label>
             <input type="text" name="lastname" size="15" />
+               @Html.Hidden("LastName", ViewData["LastName"])
+           
             <br/>
             <br/>
 
@@ -54,10 +62,10 @@
 
             <br/>
             <br/>
-         @Html.Raw(ViewData["html"])
+             @Html.Raw(ViewData["html"])
             </div>
-      
-            <input type="button" value="Submit"/>  
+            
+            <input type="submit" value="Submit" asp-page-handler="Submit"/>  
   
     </form>
 </body>
