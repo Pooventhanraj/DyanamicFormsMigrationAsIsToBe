@@ -32,10 +32,7 @@ namespace EFormToBe.Pages
             return RedirectToPage("EForm",SavedDetails);
         }
 
-        public void OnGetSavedDetails(string saved)
-        {
-
-        }
+      
     }
 
    
